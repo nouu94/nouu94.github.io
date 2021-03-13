@@ -1,0 +1,13 @@
+---
+layout: post 레이아웃 post 고정
+title: post-sample 게시판 글 제목
+date: 2020-01-02 19:20:23 +0900 시간 뒤에 +0900은 협정시간보다 9시간 빠른 것 (한국, 일본)
+category: sample 카테고리. 없으면 카테고리가 추가 됩니다.
+---
+# post-sample
+> Hello!
+
+This is code
+```ruby
+print 'hello world'
+```
